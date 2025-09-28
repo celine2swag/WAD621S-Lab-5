@@ -394,7 +394,7 @@ function changeTheme(theme) {
       borderColor = "#e9ecef";
       break;
     default: // light
-      primary = "#4361ee";
+      primary = "#555e87";
       secondary = "#3a0ca3";
       light = "#f8f9fa";
       dark = "#212529";

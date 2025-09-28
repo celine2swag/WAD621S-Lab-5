@@ -74,7 +74,7 @@ We've provided a set of CSS variables to help you maintain consistency:
 
 ```css
 :root {
-  --primary: #4361ee;
+  --primary: #555e87;
   --secondary: #3a0ca3;
   --success: #4cc9f0;
   --warning: #f72585;
